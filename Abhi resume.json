@@ -1,0 +1,316 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/ABHI PEMMARAJU (11).pdf",
+    "baseName": "ABHI PEMMARAJU (11).pdf",
+    "format": "PDF",
+    "formatDescription": "PDF",
+    "mimeType": "application/pdf",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 596,
+      "height": 842,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 72,
+      "y": 72
+    },
+    "printSize": {
+      "x": 8.27778,
+      "y": 11.6944
+    },
+    "units": "Undefined",
+    "type": "TrueColorAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 8,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 2007328,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 65535,
+        "mean": 8444.72,
+        "median": 0,
+        "standardDeviation": 19867,
+        "kurtosis": 3.32308,
+        "skewness": 2.21691,
+        "entropy": 0.151124
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 65535,
+        "mean": 5666.11,
+        "median": 0,
+        "standardDeviation": 16878.3,
+        "kurtosis": 6.85524,
+        "skewness": 2.901,
+        "entropy": 0.163954
+      },
+      "red": {
+        "min": 0,
+        "max": 65535,
+        "mean": 9189.81,
+        "median": 0,
+        "standardDeviation": 20938.2,
+        "kurtosis": 2.76238,
+        "skewness": 2.09752,
+        "entropy": 0.133872
+      },
+      "green": {
+        "min": 0,
+        "max": 65535,
+        "mean": 9365.35,
+        "median": 0,
+        "standardDeviation": 20788.1,
+        "kurtosis": 2.67243,
+        "skewness": 2.06369,
+        "entropy": 0.152939
+      },
+      "blue": {
+        "min": 0,
+        "max": 65535,
+        "mean": 9557.62,
+        "median": 0,
+        "standardDeviation": 20863.6,
+        "kurtosis": 2.35419,
+        "skewness": 1.98617,
+        "entropy": 0.153731
+      }
+    },
+    "alpha": "#FFFFFFFFFFFF0000",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 596,
+      "height": 842,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 0,
+    "scenes": 2,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-07-09T11:33:58+00:00",
+      "date:modify": "2022-07-09T11:33:58+00:00",
+      "pdf:HiResBoundingBox": "595.56x842.28+0+0",
+      "pdf:Producer": "Microsoft® Word for Microsoft 365",
+      "pdf:Version": "PDF-1.7",
+      "signature": "ae673d947a5669bd1745d410ac96328c6f04fdc9fd75f20fc81b2ffc5458f6fa",
+      "xmp:CreateDate": "2022-06-03T13:41:56+05:30",
+      "xmp:CreatorTool": "Microsoft® Word for Microsoft 365",
+      "xmp:ModifyDate": "2022-06-03T13:41:56+05:30",
+      "xmpMM:DocumentID": "uuid:7D81C3D8-9400-4C95-82CB-706D19FDFE7E",
+      "xmpMM:InstanceID": "uuid:7D81C3D8-9400-4C95-82CB-706D19FDFE7E"
+    },
+    "profiles": {
+      "xmp": {
+        "length": 3117
+      }
+    },
+    "tainted": false,
+    "filesize": "90596B",
+    "numberPixels": "501832",
+    "pixelsPerSecond": "8.85138MB",
+    "userTime": "0.060u",
+    "elapsedTime": "0:01.056",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/ABHI PEMMARAJU (11).pdf",
+    "baseName": "ABHI PEMMARAJU (11).pdf",
+    "format": "json",
+    "formatDescription": "json",
+    "mimeType": "application/json",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 596,
+      "height": 842,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 72,
+      "y": 72
+    },
+    "printSize": {
+      "x": 8.27778,
+      "y": 11.6944
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 8,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 2007328,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 65535,
+        "mean": 47647,
+        "median": 49151.2,
+        "standardDeviation": 11478.5,
+        "kurtosis": -0.91624,
+        "skewness": -1.00937,
+        "entropy": 0.134488
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 65535,
+        "mean": 2653.15,
+        "median": 0,
+        "standardDeviation": 11432.2,
+        "kurtosis": 19.423,
+        "skewness": 4.50155,
+        "entropy": 0.105661
+      },
+      "red": {
+        "min": 0,
+        "max": 65535,
+        "mean": 62519.3,
+        "median": 65535,
+        "standardDeviation": 11973.3,
+        "kurtosis": 15.4409,
+        "skewness": -4.02085,
+        "entropy": 0.154416
+      },
+      "green": {
+        "min": 0,
+        "max": 65535,
+        "mean": 62632.2,
+        "median": 65535,
+        "standardDeviation": 11462,
+        "kurtosis": 15.0912,
+        "skewness": -3.97402,
+        "entropy": 0.138906
+      },
+      "blue": {
+        "min": 0,
+        "max": 65535,
+        "mean": 62783.2,
+        "median": 65535,
+        "standardDeviation": 11046.4,
+        "kurtosis": 16.7977,
+        "skewness": -4.14175,
+        "entropy": 0.138967
+      }
+    },
+    "alpha": "#FFFFFFFFFFFF0000",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 596,
+      "height": 842,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 1,
+    "scenes": 2,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-07-09T11:33:58+00:00",
+      "date:modify": "2022-07-09T11:33:58+00:00",
+      "pdf:HiResBoundingBox": "595.56x842.28+0+0",
+      "pdf:Producer": "Microsoft® Word for Microsoft 365",
+      "pdf:Version": "PDF-1.7",
+      "signature": "47a288bd3f1f338b972227a489e62a2e00d02fd4d0cba8638dec2022a53c04c0",
+      "xmp:CreateDate": "2022-06-03T13:41:56+05:30",
+      "xmp:CreatorTool": "Microsoft® Word for Microsoft 365",
+      "xmp:ModifyDate": "2022-06-03T13:41:56+05:30",
+      "xmpMM:DocumentID": "uuid:7D81C3D8-9400-4C95-82CB-706D19FDFE7E",
+      "xmpMM:InstanceID": "uuid:7D81C3D8-9400-4C95-82CB-706D19FDFE7E"
+    },
+    "profiles": {
+      "xmp": {
+        "length": 3117
+      }
+    },
+    "tainted": false,
+    "filesize": "51144B",
+    "numberPixels": "501832",
+    "pixelsPerSecond": "2.75495MB",
+    "userTime": "0.190u",
+    "elapsedTime": "0:01.182",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
